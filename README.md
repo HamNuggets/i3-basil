@@ -3,5 +3,5 @@ A custom config of i3 window manager that can be installed as an alternative to 
 
 # Installation
 
-Arch Linux
+Arch Linux \n
 `git clone https://github.com/UwUham/i3-basil; cd i3-basil; sh install.sh`
