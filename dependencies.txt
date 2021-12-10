@@ -1,0 +1,10 @@
+i3-gaps
+picom
+shutter
+rofi
+dunst
+kitty
+ranger
+git
+base-devel
+neofetch
