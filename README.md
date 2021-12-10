@@ -6,4 +6,4 @@ A custom config of i3 window manager that can be installed as an alternative to 
 Arch Linux:
 `$ git clone https://github.com/UwUham/i3-basil; cd i3-basil; sh install.sh`
 
-Installations for other distributions have not been built yet.
+Installations for other distributions have not been built yet. You can install all dependencies and apply the dotfiles yourself [here](https://github.com/UwUham/galaxy-rice-dots)
