@@ -3,8 +3,7 @@ mkdir ~/basili3
 cd ~/basili3
 echo "Done."
 echo "Installing dependencies..."
-sudo pacman -Qqen > dependencies.txt
-sudo pacman -S --noconfirm - < dependencies.txt
+sudo pacman -S --noconfirm --needed - < dependencies.txt
 git clone https://aur.archlinux.org/polybar.git
 git clone https://aur.archlinux.org/nerd-fonts-fira-code.git
 git clone https://aur.archlinux.org/ttf-material-design-icons.git
